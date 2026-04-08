@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\NEHA YADAV\OneDrive\Desktop\MadAssignment_neha240552\Q1_CurrencyConverterApp\app\src\main\jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\NEHA YADAV\OneDrive\Desktop\MadAssignment_neha240552\Q1_CurrencyConverterApp\app\src\debug\jniLibs"/></dataSet></merger>
